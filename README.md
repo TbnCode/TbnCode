@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Esteban | TbnCode 👋
 
 
 <img alt="Tbn Code Banner" width="1280" height="640" src="https://github.com/TbnCode/TbnCode/blob/main/GitHub.jpg"/>
