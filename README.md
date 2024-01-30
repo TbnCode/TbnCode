@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<img alt="Tbn Code Banner" width="1280" height="640" src="https://github.com/TbnCode/TbnCode/blob/main/GitHub.jpg"/>
+
 <!--
 **TbnCode/TbnCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
